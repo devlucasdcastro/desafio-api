@@ -9,5 +9,7 @@ Desafio de criação de uma API para desafio técnico
 
 #Banco de dados local utilizado: Postgres
 
+#Para acessar documentação no Swagger, após executar o programa, entrar em localhost:{port}/swagger-ui.html
+
 
 
